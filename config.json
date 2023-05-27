@@ -1,0 +1,18 @@
+{
+    "prefix": "g.",
+    "token": "MTExMTk5MzYyODQ3NTI3MzI1OA.Gu8ORN.L1xdyzJ3gPJ50AocWgRwjpP6Jznb61aytfNtDc",
+    "statuses": [
+      {
+        "name": "Statut 1",
+        "type": "PLAYING"
+      },
+      {
+        "name": "Statut 2",
+        "type": "WATCHING"
+      },
+      {
+        "name": "Statut 3",
+        "type": "LISTENING"
+      }
+    ]
+  }

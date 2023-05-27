@@ -26,3 +26,13 @@ Entrer les informations nécessaires et faite cette commande
 ```bash
   npm install discord.js@12
 ```
+
+Et puis installer toutes les dépendance
+
+```bash
+  npm install fs
+```
+
+## 💸  Partenaire
+
+ - [Verso Heberg](https://verso-heberg.fr)

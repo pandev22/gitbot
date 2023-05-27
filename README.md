@@ -1,10 +1,10 @@
-# Git Bot Open-Source
+# 🔔 Git Bot Open-Source
 
 Hello, si tu et ici sais que tu veux en s'avoir plus sur Git Bot !
 
 
 
-## Développeur
+## 👨‍💻 Développeur
 
 - [@FluxyTV_YT](https://github.com/ikedu234?tab=repositories)
 - [@Pan_dev](https://github.com/pandev22)
@@ -14,7 +14,7 @@ Hello, si tu et ici sais que tu veux en s'avoir plus sur Git Bot !
 Git Bot et un bot Discord Open-Source developper pour discord.js v12 met qui fait toute sont importance avec beacoup de commande
 
 
-## 👨‍💻 Installer Git Bot
+## 😎 Installer Git Bot
 
 Pour installer Git Bot, il faudra faire les commandes suivante dans votre Visual Studio Code ou dans une autre interface.
 
